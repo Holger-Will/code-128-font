@@ -1,0 +1,22 @@
+{
+  "name": "code-128-font",
+  "homepage": "https://github.com/Holger-Will/code-128-font",
+  "authors": [
+    "Holger Will <h.will@klimapartner.de>"
+  ],
+  "description": "a font to render code 128 barcodes",
+  "main": "code128_XL.woff",
+  "keywords": [
+    "barcode",
+    "font",
+    "code-128"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
