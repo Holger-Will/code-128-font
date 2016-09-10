@@ -19,6 +19,18 @@ if you need other height to width ratios, you can generate your own font using t
 
 You can download the font in .ttf, .woff, and .svg format.
 
+## install
+
+You can install it as any other font.
+To use it as a webfont, you can install with bower:
+
+    bower install --save code-128-font
+
+and the in your .html:
+
+    <link rel="stylesheet" src="bower_components/code-128-font/code128_all.css"/>
+    <div class="code_128_XL">ÑTestWÓ</div>
+
 ## usage
 
 It can be used with:
