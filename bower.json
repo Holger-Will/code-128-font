@@ -5,7 +5,14 @@
     "Holger Will <h.will@klimapartner.de>"
   ],
   "description": "a font to render code 128 barcodes",
-  "main": "code128_XL.woff",
+  "main": [
+    "code128_all.css",
+    "css/code128_S.css",
+    "css/code128.css",
+    "css/code128_L.css",
+    "css/code128_XL.css",
+    "css/code128_XXL.css"
+  ],
   "keywords": [
     "barcode",
     "font",
