@@ -28,7 +28,7 @@ To use it as a webfont, you can install with bower:
 
 and the in your .html:
 
-    <link rel="stylesheet" src="bower_components/code-128-font/code128_all.css"/>
+    <link rel="stylesheet" href="bower_components/code-128-font/code128_all.css"/>
     <div class="code_128_XL">ÑTestWÓ</div>
 
 ## usage

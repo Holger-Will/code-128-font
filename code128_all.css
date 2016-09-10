@@ -1,8 +1,8 @@
 @font-face { font-family: 'code128_S'; src: url('code128_S.woff'); }
 @font-face { font-family: 'code128'; src: url('code128.woff'); }
 @font-face { font-family: 'code128_L'; src: url('code128_L.woff'); }
-@font-face { font-family: 'code128_XL'; src: url('code128.woff_XL'); }
-@font-face { font-family: 'code128_XXL'; src: url('code128.woff_XXL'); }
+@font-face { font-family: 'code128_XL'; src: url('code128_XL.woff'); }
+@font-face { font-family: 'code128_XXL'; src: url('code128_XXL.woff'); }
 .code_128_S { font-family: code128_S; font-size:11px }
 .code_128 { font-family: code128; font-size:22px }
 .code_128_L { font-family: code128_L; font-size:33px }
