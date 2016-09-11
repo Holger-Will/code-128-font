@@ -1,2 +1,2 @@
-@font-face { font-family: 'code128_XL'; src: url('../code128_XL.woff'); }
+@font-face { font-family: 'code128_XL'; src: url('../fonts/code128_XL.woff'); }
 .code_128_XL { font-family: code128_XL; font-size:44px }
