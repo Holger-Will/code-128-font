@@ -36,7 +36,7 @@ and the in your .html:
 It can be used with:
 
 * [code 128 encoder for nodejs, the browser and the command line](https://github.com/Holger-Will/code-128-encoder)
-* [code 128 encoder for mysql](https://github.com/Holger-Will/code-128-encoder)
+* [code 128 encoder for mysql](https://github.com/Holger-Will/mysql-code-128-encoder)
 * any other code 128 encoder
 
 ## code table
