@@ -14,7 +14,7 @@
     "code-128",
     "code 128"
   ],
-  "license": "MIT",
+  "license": "OFL",
   "ignore": [
     "**/.*",
     "node_modules",
