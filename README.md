@@ -2,12 +2,12 @@
 
 The code 128 font can be used to render code128 encoded strings.
 
-## available sizes
+## Available Sizes
 
-The font is available in 5 different height to width ratios.
-(Usually i use code128_XL)
+The font is available in 5 different height to width ratios
+(usually i use code128_XL).
 
-if you need other height to width ratios, you can generate your own font using the [barcode font generator](https://github.com/Holger-Will/barcode-font-generator)
+If you need other height to width ratios, you can generate your own font using the [barcode font generator](https://github.com/Holger-Will/barcode-font-generator).
 
 | name | height to width ratio | font size to get 1px wide bars |
 | --- | --- | --- |
@@ -19,19 +19,21 @@ if you need other height to width ratios, you can generate your own font using t
 
 You can download the font in .ttf, .woff, and .svg format.
 
-## install
+## Install
 
 You can install it as any other font.
-To use it as a webfont, you can install with bower:
+To use it as a webfont, you can install with bower or npm:
 
     bower install --save code-128-font
+
+    npm i Holger-Will/code-128-font
 
 and the in your .html:
 
     <link rel="stylesheet" href="bower_components/code-128-font/code128_all.css"/>
     <div class="code_128_XL">ÌTestWÎ</div>
 
-## usage
+## Usage
 
 It can be used with:
 
@@ -39,7 +41,7 @@ It can be used with:
 * [code 128 encoder for mysql](https://github.com/Holger-Will/mysql-code-128-encoder)
 * any other code 128 encoder
 
-## code table
+## Code Table
 
 | Code | A | B | C | ASCII | Symbol | Bars and Spaces | Weights |
 | --- | --- | --- | --- | --- | --- | --- | --- |
